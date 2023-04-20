@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/um-ecosystem/static/css/main.073c9b0a.css",
-    "main.js": "/um-ecosystem/static/js/main.3c559536.js",
-    "static/js/787.93f01276.chunk.js": "/um-ecosystem/static/js/787.93f01276.chunk.js",
-    "static/media/logo.svg": "/um-ecosystem/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/um-ecosystem/index.html",
-    "main.073c9b0a.css.map": "/um-ecosystem/static/css/main.073c9b0a.css.map",
-    "main.3c559536.js.map": "/um-ecosystem/static/js/main.3c559536.js.map",
-    "787.93f01276.chunk.js.map": "/um-ecosystem/static/js/787.93f01276.chunk.js.map"
+    "main.css": "/hackathon-test/static/css/main.073c9b0a.css",
+    "main.js": "/hackathon-test/static/js/main.248878be.js",
+    "static/js/787.93f01276.chunk.js": "/hackathon-test/static/js/787.93f01276.chunk.js",
+    "static/media/logo.svg": "/hackathon-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/hackathon-test/index.html",
+    "main.073c9b0a.css.map": "/hackathon-test/static/css/main.073c9b0a.css.map",
+    "main.248878be.js.map": "/hackathon-test/static/js/main.248878be.js.map",
+    "787.93f01276.chunk.js.map": "/hackathon-test/static/js/787.93f01276.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.3c559536.js"
+    "static/js/main.248878be.js"
   ]
 }
